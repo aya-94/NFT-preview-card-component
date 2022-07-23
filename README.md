@@ -3,9 +3,9 @@ A Frontend Mentor challenge using HTML & CSS.
 
 ---
 
-[Demo](https://aya-94.github.io/Intro-component-with-sign-up-form/)
+[Demo](https://aya-94.github.io/NFT-preview-card-component/)
 
 
-![images](/images/form-image.jpg)
+![images](/images/nft-challenge-1.png)
 
 
